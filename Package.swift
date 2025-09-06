@@ -7,7 +7,7 @@ let package = Package(
         .iOS(.v13)
     ],
     products: [
-        .library(name: "idnewsdk", targets: ["passportidSDK"])
+        .library(name: "passportidSDK", targets: ["passportidSDK"])
     ],
     targets: [
         .binaryTarget(
