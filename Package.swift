@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "passportidSDK",
-            url: "https://github.com/shaikdevops786/idnewsdk/releases/download/1.0.1/passportidSDK.xcframework.zip",
-            checksum: "5145f70d8b81fce887654e4da482512139dc7e6f2ca8b081a67bed1b1217a86c"
+            url: "https://github.com/shaikdevops786/idnewsdk/releases/download/1.0.2/passportidSDK.xcframework.zip",
+            checksum: "02da7da3a88f4cf9b9905e8a45bdd7265903c7cc8105d8e9bcd9705acad87364"
         )
     ]
 )
